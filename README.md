@@ -1,4 +1,4 @@
-# Pelican Nginx Egg
+# Nginx Cloudflare Egg
 
 A versatile **Pelican Panel Egg** featuring Nginx, PHP 8.x, WordPress, Git, Composer, Cronjob, ionCube Loader, Auto-Update, and Cloudflare Tunnel support.
 
